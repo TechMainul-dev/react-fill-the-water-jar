@@ -1,16 +1,21 @@
-# React-19 + Vite with TailwindCSS-4
+# Project Name: Fill the Water Jar
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules. and also get TailwindCSS
+Project Description:
+This project simulates the process of filling and emptying a water jar. It can be implemented as a visual animation, a game, or a simple interactive application. The goal is to demonstrate the mechanics of filling and emptying a container, with potential extensions like measuring water levels, adding obstacles, or creating a puzzle-solving experience.
 
-## 🚀 Features
-- Built with React 19 and Tailwind CSS 4
-- Responsive design
+## Key Features:
 
-## 🛠 Installation
-```sh
-git clone https://github.com/TechMainul-dev/react-19-tailwind-4.git
-cd react-19-tailwind-4
-npm install
-npm start
-```
+### 1. Fill the Jar:
 
+### 2. Empty the Jar:
+### 3. Interactive Controls:
+
+A graphical representation of the jar and water level.
+
+Animations for smooth transitions.
+
+Measurement Display:
+
+Show the current water level (e.g., in liters or percentage).
+
+## 🛠 Visit website: https://water-jar.netlify.app/
